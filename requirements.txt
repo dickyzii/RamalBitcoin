@@ -1,9 +1,9 @@
 streamlit
 pandas
 numpy
-plotly
+plotly==6.5.0
 statsmodels
 scikit-learn
 openpyxl
 reportlab
-kaleido
+kaleido==0.2.1
